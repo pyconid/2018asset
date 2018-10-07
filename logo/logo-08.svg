@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 453.6 200" enable-background="new 0 0 453.6 200" xml:space="preserve">
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 129.3731 103.7736)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="90.9654">PYCON</tspan><tspan x="4.6" y="47.5" fill="#FFFFFF" font-family="'Montserrat-Light'" font-size="38">INDONESIA 2018</tspan></text>
+	</g>
+	<g>
+		<polygon fill="#C4611E" points="56.3,2.9 71.4,2.9 67.1,6.5 70.6,8.2 55.2,8.2 		"/>
+		<g>
+			<g>
+				<g>
+					<polygon fill="#C4611E" points="65,40 21,36.1 13.2,24.1 69.5,30.1 					"/>
+				</g>
+				<g>
+					<polygon fill="#C4611E" points="7.8,49.3 67,58.3 44.5,65.9 20.7,65.9 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<polygon fill="#EACC1B" points="7.8,49.3 20.7,65.9 65,40 69.5,30.1 			"/>
+			<polygon fill="#EACC1B" points="44.5,65.9 74.9,45.6 67,58.3 			"/>
+			<polygon fill="#EACC1B" points="21,36.1 39.3,19.9 48.4,22 61.9,10.8 63.1,2.9 43.2,2.9 13.2,24.1 			"/>
+		</g>
+		<g>
+			<path fill="#BAB586" d="M39.8,94.8l37.8,10.6l2,6.7c0,0-19.5-0.3-20.2,18.2c-0.7,18.5,7.6,37.4,7.6,37.4L39.8,200V94.8z"/>
+			<polygon fill="#BAB586" points="39.8,86.3 77.7,99.8 79.7,93.1 39.8,73.3 			"/>
+			<polygon fill="#BAB586" points="70.4,107 39.8,107 39.8,84 70.4,94.8 			"/>
+			<polygon fill="#BAB586" points="46.9,97 73,104.7 74.2,97.5 46.9,84 			"/>
+		</g>
+		<polygon fill="#EACC1B" points="46.9,2.9 38.6,2.9 33.9,9.5 		"/>
+		<g>
+			<path fill="#E5E2B5" d="M20.2,130.3c0.7,18.5-7.6,37.4-7.6,37.4L39.8,200V94.8L2,105.4l-2,6.7l39.8-4.2v36.9L20.2,130.3z"/>
+			<polygon fill="#E5E2B5" points="39.8,86.3 2,99.8 0,93.1 39.8,73.3 			"/>
+		</g>
+		<polygon fill="#C4611E" points="42.8,20.7 39.3,19.9 44.9,15.2 51.8,13.5 		"/>
+		<line fill="none" x1="48.4" y1="22" x2="38.6" y2="2.9"/>
+		<line fill="none" x1="61.9" y1="10.8" x2="44.9" y2="15.2"/>
+		<line fill="none" x1="48.4" y1="22" x2="74.9" y2="0"/>
+	</g>
+</g>
+</svg>
